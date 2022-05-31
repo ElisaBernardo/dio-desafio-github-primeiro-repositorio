@@ -1,2 +1,3 @@
 Comandos Git: https://comandosgit.github.io/
+Como personalizar o perfil do github: https://www.youtube.com/watch?v=TsaLQAetPLU
 
